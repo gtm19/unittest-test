@@ -16,3 +16,10 @@ from lib import foo
 
 a_variable = foo.fun(1)
 ```
+### Running tests
+
+You can run tests as follows:
+
+```sh
+python -m unittest
+```
